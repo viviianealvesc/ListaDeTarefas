@@ -1,6 +1,9 @@
 # Lista de Tarefas em PHP Orientado a Objetos
 Este é um projeto de uma lista de tarefas simples, desenvolvido em PHP Orientado a Objetos, onde os usuários podem adicionar, editar, excluir ou marcar como concluídas as tarefas. Além disso, o sistema também possui um filtro para listar somente as tarefas pendentes. O projeto foi construído utilizando HTML, Bootstrap, JavaScript e PHP OO.
 
+<img width="800" alt="listaDeTarefas" src="https://github.com/viviianealvesc/ListaDeTarefas/assets/125809555/4de13019-f47d-4bba-9bce-1b54b26da787">
+
+
 # Funcionalidades
 🔸 Adicionar Tarefa: Os usuários podem adicionar novas tarefas à lista. <br>
 🔸 Editar Tarefa: As tarefas existentes podem ser editadas para atualizar seu conteúdo.<br>
@@ -24,5 +27,4 @@ PHP Orientado a Objetos (OO): Utilizado para implementar a lógica do backend e 
 # Licença
 Este projeto está licenciado sob a Licença MIT.
 
-# 🌐 Link do Projeto
  
