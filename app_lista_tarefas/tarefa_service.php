@@ -12,7 +12,7 @@ class TarefaService {
 	esses atributos aqui no TarefaService tambem. */
 	public function __construct(Conexao $conexao, Tarefa $tarefa) {
 		$this->conexao = $conexao->conectar();
-		$this->tarefa = $tarefa;
+		$this->tarefa->$tarefa;
 	}
 
 	public function inserir() { //create
